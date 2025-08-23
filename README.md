@@ -4,5 +4,5 @@ This project uses machine learning techniques to predict rainfall based on weath
 
 ## 📁 Files
 
-- `rainfall_prediction.ipynb`: Main Jupyter notebook containing the data preprocessing, model training, and evaluation.
-- `rainfall_data.csv`: The dataset used for training and testing the model.
+- `rain.ipynb`: Main Jupyter notebook containing the data preprocessing, model training, and evaluation.
+- `Rainfall.csv`: The dataset used for training and testing the model.
